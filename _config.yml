@@ -1,3 +1,14 @@
 theme: jekyll-theme-cayman
 title: NordSec 2022
 description: The 27th Nordic Conference on Secure IT Systems
+top_navs:
+  - title: "Call For Paper"
+    anchor: "#call-for-paper"
+  - title: "Submission"
+    anchor: "#submission-guidelines"
+  - title: "Important dates"
+    anchor: "#important-dates"
+  - title: "Committees"
+    anchor: "#committees"
+  - title: "Contact"
+    anchor: "#contact"

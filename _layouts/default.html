@@ -14,7 +14,8 @@
     <style type="text/css">
       .topnav {
         overflow: hidden;
-        background-color: #333;
+        background-color: #159957;
+        background-image: linear-gradient(120deg, #155799, #159957);
       }
 
       .topnav a {
@@ -35,19 +36,26 @@
         background-color: #04AA6D;
         color: white;
       }
-    </style>
+  </style>
   </head>
   <body>
+
+    <div class="topnav">
+
+      {% for nav in site.team_members %}
+        <a href="{{ nav.anchor }}">{{ nav.title }}</a>
+      {% endfor %}
+
+      <a href="#call-for-papers">Call For Paper</a>
+      <a href="#submission-guidelines">Submission</a>
+      <a href="#important-dates">Important dates</a>
+      <a href="#committees">Committees</a>
+      <a href="#contact">Contact</a>
+    </div>
+
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-       <div class="topnav">
-        <a href="#call-for-papers">Call For Paper</a>
-        <a href="#submission-guidelines">Submission</a>
-        <a href="#important-dates">Important dates</a>
-        <a href="#committees">Committees</a>
-        <a href="#contact">Contact</a>
-      </div> 
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
