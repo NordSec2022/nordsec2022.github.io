@@ -1,5 +1,3 @@
-## NordSec 2022
-
 ### About the Conference
 
 NordSec is an annual research conference series that has been running since 1996. The NordSec conferences address a broad range of topics on IT security. The events bring together security researchers from the Nordic countries, Northern Europe, and beyond. In addition to being a venue for academic publishing, NordSec is an important meeting place for university faculty, students, and industry researchers and experts from the region.
