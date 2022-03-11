@@ -51,12 +51,12 @@ All submitted papers will be judged based on their quality and relevance through
 * Remove the names and affiliations of authors from the title page.
 * Remove acknowledgment of identifying names and funding sources.
 * Use care in referring to related work, particularly your own. Do not omit references to provide anonymity, as this leaves the reviewer unable to grasp the context. Instead, reference your past work in the third person, just as you would any other piece of related work by another author.
-* We encourage the inclusion of anonymized digital research artifacts in the form of anonymized download links in the submitted manuscript. Tools like https://github.com/tdurieux/anonymous_github/ could be useful to authors to anonymize links and contents of research artifacts consisting in code repositories.
+* We encourage the inclusion of anonymized digital research artifacts in the form of anonymized download links in the submitted manuscript. Tools like [https://github.com/tdurieux/anonymous_github/](https://github.com/tdurieux/anonymous_github/) could be useful to authors to anonymize links and contents of research artifacts consisting in code repositories.
 * Submissions should be formatted using the [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and must not exceed 16 pages (excluding well-marked appendices, and references), with an overall limit of 20 pages. Appendices may be included to assist reviewers who may have questions that fall outside the stated contribution of the paper on which your work is to be evaluated or to provide details that would only be of interest to a small minority of readers. Reviewers are not required to read any appendices so the paper should be self-contained without them. Finally, notice that, according to latest LNCS guidelines, if a paper includes appendices, they should be placed in front of the references.
 
 All submissions will be peer-reviewed by the program committee listed below.
 
-Papers must be written in English, and submitted online in PDF format, via Easychair, at https://easychair.org/conferences/?conf=nordsec2022.
+Papers must be written in English, and submitted online in PDF format, via Easychair, at [https://easychair.org/conferences/?conf=nordsec2022](https://easychair.org/conferences/?conf=nordsec2022).
 
 Submissions not meeting these guidelines risk rejection without consideration of their merits. Authors of accepted papers must agree with Springer LNCS copyright and guarantee that their papers will be presented at the conference.
 
