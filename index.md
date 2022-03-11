@@ -1,37 +1,80 @@
 ## NordSec 2022
 
-You can use the [editor on GitHub](https://github.com/NordSec2022/nordsec2022.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### About the Conference
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+NordSec is an annual research conference series that has been running since 1996. The NordSec conferences address a broad range of topics on IT security. The events bring together security researchers from the Nordic countries, Northern Europe, and beyond. In addition to being a venue for academic publishing, NordSec is an important meeting place for university faculty, students, and industry researchers and experts from the region.
 
-### Markdown
+### Call for Papers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Background, aim, and scope
 
-```markdown
-Syntax highlighted code block
+NordSec addresses a broad range of topics within IT security with the aim of bringing together computer security researchers and encouraging interaction between academia and industry.
 
-# Header 1
-## Header 2
-### Header 3
+Possible topics include, but are not limited to:
 
-- Bulleted
-- List
+* Access control and security models
+* Applied cryptography
+* Blockchains
+* Cloud security
+* Cryptanalysis
+* Cryptographic protocols
+* Cyber crime, warfare, and forensics
+* Economic, legal, and social aspects of security
+* Formal analysis
+* Hardware and smart card security
+* Information flow security
+* Intrusion detection and mitigation
+* Language-based security
+* Mobile, embedded, and Internet of Things security
+* Operating System security
+* Privacy and anonymity
+* Security and machine learning
+* Security education and training
+* Security management and audit
+* Security metrics
+* Security protocols
+* Security usability
+* Social engineering and phishing
+* Software security and malware
+* Threat modelling
+* Trust and identity management
+* Trusted computing
+* Vulnerability testing
+* Web application security
 
-1. Numbered
-2. List
+Contributions should reflect original research, developments, studies and experience. Submitted papers should not exceed 16 pages (excluding references and appendices) in [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings.
 
-**Bold** and _Italic_ and `Code` text
+#### Submission Guidelines
 
-[Link](url) and ![Image](src)
-```
+All submitted papers will be judged based on their quality and relevance through double-blind reviewing, where the identities of the authors are withheld from the reviewers. As an author, you are required to make a good-faith effort to preserve the anonymity of your submission, while at the same time allowing the reader to fully grasp the context of related past work, including your own. Minimally, please take the following steps when preparing your submission:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* Remove the names and affiliations of authors from the title page.
+* Remove acknowledgment of identifying names and funding sources.
+* Use care in referring to related work, particularly your own. Do not omit references to provide anonymity, as this leaves the reviewer unable to grasp the context. Instead, reference your past work in the third person, just as you would any other piece of related work by another author.
+* We encourage the inclusion of anonymized digital research artifacts in the form of anonymized download links in the submitted manuscript. Tools like https://github.com/tdurieux/anonymous_github/ could be useful to authors to anonymize links and contents of research artifacts consisting in code repositories.
+* Submissions should be formatted using the [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and must not exceed 16 pages (excluding well-marked appendices, and references), with an overall limit of 20 pages. Appendices may be included to assist reviewers who may have questions that fall outside the stated contribution of the paper on which your work is to be evaluated or to provide details that would only be of interest to a small minority of readers. Reviewers are not required to read any appendices so the paper should be self-contained without them. Finally, notice that, according to latest LNCS guidelines, if a paper includes appendices, they should be placed in front of the references.
 
-### Jekyll Themes
+All submissions will be peer-reviewed by the program committee listed below.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NordSec2022/nordsec2022.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Papers must be written in English, and submitted online in PDF format, via Easychair, at https://easychair.org/conferences/?conf=nordsec2022.
 
-### Support or Contact
+Submissions not meeting these guidelines risk rejection without consideration of their merits. Authors of accepted papers must agree with Springer LNCS copyright and guarantee that their papers will be presented at the conference.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Important dates
+
+* Submission due: 22 August 2022 (AoE)
+* Notification of acceptance: 03 October 2022
+* Camera ready due: 17 October 2022
+* Conference: tbd
+
+#### Publication
+
+tbd
+
+### Committees
+
+tbd
+
+### Contact
+
+PC chair: Hans P. Reiser - hansr(\_at\_)ru.is
