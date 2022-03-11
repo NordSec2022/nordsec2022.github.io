@@ -73,7 +73,53 @@ tbd
 
 ### Committees
 
-tbd
+#### General Chair
+
+* Marcel Kyas, Reykjavik University
+
+#### PC Chair
+
+* Hans P. Reiser, Reykjavik University
+* Marcel Kyas, Reykjavik University
+
+#### Website Chair
+
+* Stewart Sentanoe, University of Passau
+
+#### PC Members
+
+* Emmanouil Vasilomanolakis, Aalborg University
+* Nils Gruschka, University of Oslo
+* Musard Balliu, KTH Royal Institute of Technology
+* Nicola Tuveri, Tampere University
+* Shahid Raza, RISE Research Institutes of Sweden
+* Stefan Lindskog, Karlstad University
+* Mohammad Hamad, TUM
+* Raimundas Matulevicius, University of Tartu
+* Martin Gilje Jaatun, SINTEF Digital
+* Nicola Dragoni, Technical University of Denmark
+* Dieter Gollmann, Hamburg University of Technology
+* Ville Leppänen, University of Turku, Department of Future Technologies
+* Nils Nordbotten, Thales Norway and University of Oslo
+* Per Håkon Meland, SINTEF ICT
+* Antonis Michalas, Tampere University
+* Magnus Almgren, Chalmers University of Technology
+* Meiko Jensen, Karlstad University
+* Ulrik Franke, RISE
+* Øyvind Ytrehus, University of Bergen
+* Mikael Asplund, Linköping University
+* Nicolae Paladi, CanaryBit AB and Lund University
+* Simin Nadjm-Tehrani, Linköping university
+* Stefan Axelsson, Stockholm University
+* Tomas Olovsson, Chalmers University of Technology
+* Rene Rydhof Hansen, Aalborg University
+* Felipe Boeira, Linköping University
+* Hai-Van Dang, Plymouth University
+* Thomas Johansson, Dept. of Electrical and Information Technology, Lund University
+* Olaf Maennel, Tallinn University of Technology
+* Arnis Paršovs, University of Tartu
+* Einar Snekkenes, Norwegian University of Science and Technology
+* Tassos Dimitriou, Computer Technology Institute, Greece and Kuwait University, Kuwait
 
 ### Contact
 

@@ -41,16 +41,9 @@
   <body>
 
     <div class="topnav">
-
-      {% for nav in site.team_members %}
+      {% for nav in site.top_navs %}
         <a href="{{ nav.anchor }}">{{ nav.title }}</a>
       {% endfor %}
-
-      <a href="#call-for-papers">Call For Paper</a>
-      <a href="#submission-guidelines">Submission</a>
-      <a href="#important-dates">Important dates</a>
-      <a href="#committees">Committees</a>
-      <a href="#contact">Contact</a>
     </div>
 
     <a id="skip-to-content" href="#content">Skip to the content.</a>
