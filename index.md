@@ -122,3 +122,7 @@ tbd
 ### Contact
 
 PC chair: Hans P. Reiser - hansr(\_at\_)ru.is
+
+### Hosted By
+
+<img src="assets/rulogo.png" height="80">
