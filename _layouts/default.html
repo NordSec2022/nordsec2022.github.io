@@ -3,7 +3,13 @@
   <head>
     <meta charset="UTF-8">
     <title>{{ site.title }} | {{ site.description }}</title>
-    {% seo title=false %}
+
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ site.title }} | {{ site.description }}" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
