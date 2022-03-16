@@ -67,7 +67,7 @@ Submissions not meeting these guidelines risk rejection without consideration of
 
 #### Publication
 
-tbd
+Nordsec 2022 proceedings will be published in Springer Lecture Notes in Computer Science series.
 
 ### Committees
 
