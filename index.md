@@ -91,7 +91,7 @@ Nordsec 2022 proceedings will be published in Springer Lecture Notes in Computer
 * Musard Balliu, KTH Royal Institute of Technology
 * Nicola Tuveri, Tampere University
 * Shahid Raza, RISE Research Institutes of Sweden
-* Stefan Lindskog, Karlstad University
+* Stefan Lindskog, SINTEF Digital and Karlstad University
 * Mohammad Hamad, TUM
 * Raimundas Matulevicius, University of Tartu
 * Martin Gilje Jaatun, SINTEF Digital
