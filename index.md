@@ -118,6 +118,8 @@ Nordsec 2022 proceedings will be published in Springer Lecture Notes in Computer
 * Arnis Paršovs, University of Tartu
 * Einar Snekkenes, Norwegian University of Science and Technology
 * Tassos Dimitriou, Computer Technology Institute, Greece and Kuwait University, Kuwait
+* Ulf Kargén, Linköping University
+* Kristian Gjøsteen, Norwegian University of Science and Technology
 
 ### Contact
 
