@@ -86,7 +86,7 @@ Nordsec 2022 proceedings will be published in Springer Lecture Notes in Computer
 
 #### PC Members
 
-* Emmanouil Vasilomanolakis, Aalborg University
+* Emmanouil Vasilomanolakis, Technical University of Denmark
 * Nils Gruschka, University of Oslo
 * Musard Balliu, KTH Royal Institute of Technology
 * Nicola Tuveri, Tampere University
