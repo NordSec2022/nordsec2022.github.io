@@ -61,7 +61,7 @@ Submissions not meeting these guidelines risk rejection without consideration of
 #### Important dates
 
 * Submission due: <del>22 August 2022</del> <span style="color:red;font-weight:bold">31 August 2022</span> (AoE)
-* Notification of acceptance: 03 October 2022
+* Notification of acceptance: <del>03 October 2022</del> 06 October 2022</span>
 * Camera ready due: 17 October 2022
 * Conference: 30 November 2022 - 02 December 2022
 
