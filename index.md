@@ -83,17 +83,17 @@ Submissions not meeting these guidelines risk rejection without consideration of
 
 #### Registration Information
 
-The registration site is coming soon!
+The registration can be done [here](https://www.eventure-online.com/eventure/login.form?P21fb104f-db6e-473f-81a4-fc767adf6d90).
 
-For student registration, please send copy of student certificate to [nordsec2022@easychair.org](mailto:nordsec2022@easychair.org).
+For student registration, please send copy of the student certificate to [nordsec2022@easychair.org](mailto:nordsec2022@easychair.org).
 
-##### Early Registration Fee (until 01 November 2022)
+##### Early Registration Fee (before 02 November 2022)
 
 |-------------------------------------------------|------------|
 | Student            	                          | 57.000 ISK |
 | Regular                                         | 70.000 ISK |
 
-##### Normal Registration Fee (after 01 November 2022)
+##### Normal Registration Fee (from 02 November 2022)
 
 |-------------------------------------------------|------------|
 | Student      		                              | 67.000 ISK |
