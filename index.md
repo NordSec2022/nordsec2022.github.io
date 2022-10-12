@@ -58,6 +58,47 @@ Papers must be written in English, and submitted online in PDF format, via Easyc
 
 Submissions not meeting these guidelines risk rejection without consideration of their merits. Authors of accepted papers must agree with Springer LNCS copyright and guarantee that their papers will be presented at the conference.
 
+#### Accepted Papers
+
+* Mordechai Guri. GPU-FAN: Leaking Data From Air-Gapped Machines via Covert Noise from GPU Fans
+* Azadeh Tabiban, Heyang Zhao, Yosr Jarraya, Makan Pourzandi and Lingyu Wang. VinciDecoder: Automatically Interpreting Provenance Graphs into Textual Forensic Reports with Application to OpenStack
+* Cristoffer Leite da Silva, Jerry Den Hartog, Daniel Ricardo dos Santos and Elisa Costante. Actionable Cyber Threat Intelligence for Automated Incident Response
+* Sebastian Schrittwieser, Patrick Kochberger, Michael Pucher, Caroline Lawitschka, Philip König and Edgar R. Weippl. Obfuscation-resilient Semantic Functionality Identification Through Program Simulation
+* Mohamed Taoufiq Damir and Valtteri Niemi. Location Privacy, 5G AKA, and Enhancements
+* Carsten Hesselmann, Delphine Reinhardt, Jan Gertheiss and Jörg P. Müller. Data Privacy in Ride-Sharing Services: From an Analysis of Common Practices to Improvement of User Awareness
+* Charles-Henry Bertrand Van Ouytsel and Axel Legay. Malware Analysis with Symbolic Execution and Graph Kernel
+* Alexander Bjerre, Andreas Philip Westh, Emil Villefrance, A S M Farhan Al Haque, Jonas Bukrinski Andersen, Lucas K. Helgogaard and Marios Anagnostopoulos. A wide network scanning for discovery of UDP-based reflectors in the Nordic countries
+* Richard Plný, Karel Hynek and Tomáš Čejka. DeCrypto: Finding Cryptocurrency Miners on ISP networks
+* Tobias Latzo, Andreas Hellmich, Annika Knepper, Lukas Hardi, Tim Phillip Castello-Waldow, Felix Freiling and Andreas Attenberger. Maraudrone’s Map: An Interactive Web Application for Forensic Analysis and Visualization of DJI Drone Log Data
+* Arun Sankar, Phillip De Leon and Utz Roedig. Detection of Voice Conversion Spoofing Attacks using Voiced Speech
+* Matthew Cole and Aravind Prakash. Simplex: Repurposing Intel Memory Protection Extensions for Secure Storage
+* Daniel Fraunholz, Dominik Brunke, Hartmut Koenig, Simon Beidenhauser, Sebastian Berger and Daniel Reti. IMSI Probing: Possibilities and Limitations
+* Mohamed Msaad, Shreyas Srinivasa, Mikkel M. Andersen, David H. Audran, Charity Uche Orji G and Emmanouil Vasilomanolakis. Honeysweeper: Towards stealthy Honeytoken fingerprinting techniques
+* David Lantz, Felipe Boeira and Mikael Asplund. Towards Self-Monitoring Enclaves: Side-Channel Detection using Performance Counters
+* Camille Sivelle, Lorys Debbah, Maxime Puys, Pascal Lafourcade and Thibault Franco-Rondisson. Automatic Implementations Synthesis of Secure Protocols and Attacks from Abstract Models
+* Xavier Arnal, Abraham Cano, Tamara Finogina and Javier Herranz. How to Avoid Repetitions in Lattice-based Deniable Zero-Knowledge Proofs
+* Sarah Abdelwahab Gaballah, Lamya Abdullah, Minh Tung Tran, Ephraim Zimmer and Max Mühlhäuser. On the Effectiveness of Intersection Attacks in Anonymous Microblogging
+* Mina Sheikhalishahi, Daan Gast and Sam Vermeiren. Local Differential Privacy for Private Construction of Classification Algorithms
+* Bernhards Blumbergs, Ēriks Dobelis, Peteris Paikens, Krišjānis Nesenbergs, Kirils Solovjovs and Artis Rušiņš. WearSec: Towards Automated Security Evaluation of Wireless Wearable Devices
+
+#### Registration Information
+
+The registration site is coming soon!
+
+For student registration, please send copy of student certificate to [nordsec2022@easychair.org](mailto:nordsec2022@easychair.org).
+
+##### Early Registration Fee (until 01 November 2022)
+
+|-------------------------------------------------|------------|
+| Student            	                          | 57.000 ISK |
+| Regular                                         | 70.000 ISK |
+
+##### Normal Registration Fee (after 01 November 2022)
+
+|-------------------------------------------------|------------|
+| Student      		                              | 67.000 ISK |
+| Regular                                         | 80.000 ISK |
+
 #### Important dates
 
 * Submission due: <del>22 August 2022</del> <span style="color:red;font-weight:bold">31 August 2022</span> (AoE)
@@ -127,4 +168,4 @@ PC chair: Hans P. Reiser - hansr(\_at\_)ru.is
 
 ### Hosted By
 
-<img src="assets/rulogo.png" height="80">
+<img src="assets/rulogo.png" height="80" alt="RU Logo">
