@@ -8,6 +8,8 @@ top_navs:
     anchor: "#call-for-papers"
   - title: "Submission"
     anchor: "#submission-guidelines"
+  - title: "Schedule"
+    anchor: "#conference-schedule"
   - title: "Accepted Papers"
     anchor: "#accepted-papers"
   - title: "Registration"
