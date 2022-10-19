@@ -138,7 +138,7 @@ Taxi service between Keflavik and Reykjavík is also available, but more expensi
 
 ##### Local Transportation
 
-Reykjavik University is located next to Öskjuhlíð hill, one of Reykjavík's green areas shaped by the Ice Age. Bus line 8 departs at BSI and stops in front of the university (stop HR).  You can buy single trip tickets on the bus for 440 ISK (cash only, no change given), or use the Straeto app (with registered credit card). For more information on local buses, check [http://www.straeto.is/english/](http://www.straeto.is/english/). You can use the trip planner to check the best route from your hotel to Reykjavik University.
+Reykjavik University is located next to Öskjuhlíð hill, one of Reykjavík's green areas shaped by the Ice Age. Bus line 8 departs at BSI and stops in front of the university (stop HR).  You can buy single trip tickets on the bus for 550 ISK (cash only, no change given), or use the Straeto app (with registered credit card). For more information on local buses, check [http://www.straeto.is/english/](http://www.straeto.is/english/). You can use the trip planner to check the best route from your hotel to Reykjavik University.
 
 Electric scooters are available as means of local transportation as well (see [https://hopp.bike/](https://hopp.bike/)).
 
