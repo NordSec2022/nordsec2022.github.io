@@ -126,21 +126,21 @@ Iceland's international airport (KEF) is at Keflavik, a 40-45 minutes drive from
 
 Arrivals
 
-A Flybus operates all day from Keflavik Airport to Reykjavik in connection with all incoming international flights. Tickets can be bought inside the terminal building at the Flybus booth, online, or at a ticket automaton located by the exit door of the terminal building. The Flybus brings passengers to  the BSÍ Bus Station in Reykjavik near the center of town. At the terminal passengers with Flybus Plus tickets board smaller buses which take them to selected hotels and guest houses in Reykjavík. List of hotels and guesthouses with drop-off/pick-up service available can be found here: www.re.is/flybus/flybusplus.
+A Flybus operates all day from Keflavik Airport to Reykjavik in connection with all incoming international flights. Tickets can be bought inside the terminal building at the Flybus booth, online, or at a ticket automaton located by the exit door of the terminal building. The Flybus brings passengers to  the BSÍ Bus Station in Reykjavik near the center of town. At the terminal passengers with Flybus Plus tickets board smaller buses which take them to selected hotels and guest houses in Reykjavík. List of hotels and guesthouses with drop-off/pick-up service available can be found here: [www.re.is/flybus/flybusplus](www.re.is/flybus/flybusplus).
 
 Departures
 
-The Flybus operates all day in connection with all outgoing flights. Scheduled departures are from the BSÍ Bus Station in Reykjavík. Pick-up service is available from selected hotels and guest houses in Reykjavík for passengers holding Flybus Plus tickets (www.re.is/flybus/flybusplus). The day before departure, passengers need to inform the reception desk staff of their hotel/guest house that they want the Flybus to pick them up the following day.
+The Flybus operates all day in connection with all outgoing flights. Scheduled departures are from the BSÍ Bus Station in Reykjavík. Pick-up service is available from selected hotels and guest houses in Reykjavík for passengers holding Flybus Plus tickets. The day before departure, passengers need to inform the reception desk staff of their hotel/guest house that they want the Flybus to pick them up the following day.
 
-All further Flybus information under www.re.is/flybus
+All further Flybus information under [www.re.is/flybus](www.re.is/flybus)
 
 Taxi service between Keflavik and Reykjavík is also available, but more expensive.
 
 ##### Local Transportation
 
-Reykjavik University is located next to Öskjuhlíð hill, one of Reykjavík's green areas shaped by the Ice Age. Bus line 8 departs at BSI and stops in front of the university (stop HR).  You can buy single trip tickets on the bus for 440 ISK (cash only, no change given), or use the Straeto app (with registered credit card). For more information on local buses, check http://www.straeto.is/english/. You can use the trip planner to check the best route from your hotel to Reykjavik University.
+Reykjavik University is located next to Öskjuhlíð hill, one of Reykjavík's green areas shaped by the Ice Age. Bus line 8 departs at BSI and stops in front of the university (stop HR).  You can buy single trip tickets on the bus for 440 ISK (cash only, no change given), or use the Straeto app (with registered credit card). For more information on local buses, check [http://www.straeto.is/english/](http://www.straeto.is/english/). You can use the trip planner to check the best route from your hotel to Reykjavik University.
 
-Electric scooters are available as means of local transportation as well (see https://hopp.bike/).
+Electric scooters are available as means of local transportation as well (see [https://hopp.bike/](https://hopp.bike/)).
 
 #### Important dates
 
