@@ -120,6 +120,20 @@ For student registration, please send copy of the student certificate to [nordse
 
 NordSec 2022 takes place at Reykjavik University, Menntavegur 1, 102 Reykjavik.
 
+##### Accomodation
+
+Hotel reservations in the Icelandair Hotel Reykjavik Natura can be made at a special rate at this Synxis.com(https://be.synxis.com/?&adult=2&altdest=SWEST&arrive=2022-11-28&chain=15503&child=0&config=icelandair&configcode=icelandair&currency=ISK&depart=2022-12-04&hotel=59630&level=hotel&locale=en-US&promo=AIHNORSEIB&rooms=1) site.
+Reykjavik Natura is only a 10 minute walk from the university. 
+
+Prices (including breakfast):
+    27.700 ISK per double room per night
+    24.300 ISK per single room per night
+
+The discounted rate is only available through April 15th and there are limited number of rooms with that discount.
+
+Booking.com or Expedia.com also have other options.
+It takes about 20-30 minutes (2.6 km) to walk from Reykjavik city center to Reykjavik University.
+
 ##### Airport Transportation
 
 Iceland's international airport (KEF) is at Keflavik, a 40-45 minutes drive from Reykjavik (not to be confused with Reykjavik city airport).
