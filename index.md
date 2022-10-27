@@ -126,10 +126,10 @@ Hotel reservations in the Icelandair Hotel Reykjavik Natura can be made at a spe
 Reykjavik Natura is only a 10 minute walk from the university. 
 
 Prices (including breakfast):
-    27.700 ISK per double room per night
-    24.300 ISK per single room per night
+* 27.700 ISK per room per night (double occupancy)
+* 24.300 ISK per room per night (single occupancy)
 
-The discounted rate is only available through April 15th and there are limited number of rooms with that discount.
+There are limited number of rooms with that discount.
 
 Booking.com or Expedia.com also have other options.
 It takes about 20-30 minutes (2.6 km) to walk from Reykjavik city center to Reykjavik University.
