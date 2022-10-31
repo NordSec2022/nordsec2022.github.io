@@ -60,20 +60,7 @@ Submissions not meeting these guidelines risk rejection without consideration of
 
 #### Conference Schedule
 
-| Time  | 30 Nov                          | 01 Dec       | 02 Dec                                 |
-|-------|---------------------------------|--------------|----------------------------------------|
-| 08:30 | Registration                    | Registration | Registration                           |
-| 09:00 | Opening + Keynote 1             | Keynote 2    | Session 7                              |
-| 10:00 | Coffee break                    | Coffee break | Coffee break                           |
-| 10:30 | Session 1                       | Session 4    | Session 8                              |
-| 12:00 | Lunch                           | Lunch        | Lunch                                  |
-| 13:30 | Session 2                       | Session 5    | Optional excursion to the Blue Lagoon* |
-| 15:00 | Coffee break                    | Coffee break |                                        |
-| 15:30 | Session 3 + Poster teaser talks | Session 6    |                                        |
-| 17:30 |                                 |              |                                        |
-| 18:00 | Reception + poster              | Dinner       |                                        |
-
-\* The excursion is not included in the registration fee, see the tour description [here](assets/NordSec2022_Blue Lagoon.pdf) for more detail.
+{% include program.html %}
 
 #### Accepted Papers
 
