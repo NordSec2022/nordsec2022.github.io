@@ -140,13 +140,13 @@ Iceland's international airport (KEF) is at Keflavik, a 40-45 minutes drive from
 
 Arrivals
 
-A Flybus operates all day from Keflavik Airport to Reykjavik in connection with all incoming international flights. Tickets can be bought inside the terminal building at the Flybus booth, online, or at a ticket automaton located by the exit door of the terminal building. The Flybus brings passengers to  the BSÍ Bus Station in Reykjavik near the center of town. At the terminal passengers with Flybus Plus tickets board smaller buses which take them to selected hotels and guest houses in Reykjavík. List of hotels and guesthouses with drop-off/pick-up service available can be found here: [www.re.is/flybus/flybusplus](www.re.is/flybus/flybusplus).
+A Flybus operates all day from Keflavik Airport to Reykjavik in connection with all incoming international flights. Tickets can be bought inside the terminal building at the Flybus booth, online, or at a ticket automaton located by the exit door of the terminal building. The Flybus brings passengers to  the BSÍ Bus Station in Reykjavik near the center of town. At the terminal passengers with Flybus Plus tickets board smaller buses which take them to selected hotels and guest houses in Reykjavík. List of hotels and guesthouses with drop-off/pick-up service available can be found here: [www.re.is/flybus/flybusplus](https://www.re.is/flybus/flybusplus).
 
 Departures
 
 The Flybus operates all day in connection with all outgoing flights. Scheduled departures are from the BSÍ Bus Station in Reykjavík. Pick-up service is available from selected hotels and guest houses in Reykjavík for passengers holding Flybus Plus tickets. The day before departure, passengers need to inform the reception desk staff of their hotel/guest house that they want the Flybus to pick them up the following day.
 
-All further Flybus information under [www.re.is/flybus](www.re.is/flybus)
+All further Flybus information under [www.re.is/flybus](https://www.re.is/flybus)
 
 Taxi service between Keflavik and Reykjavík is also available, but more expensive.
 
