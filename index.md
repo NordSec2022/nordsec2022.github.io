@@ -58,7 +58,7 @@ Papers must be written in English, and submitted online in PDF format, via Easyc
 
 Submissions not meeting these guidelines risk rejection without consideration of their merits. Authors of accepted papers must agree with Springer LNCS copyright and guarantee that their papers will be presented at the conference.
 
-#### Conference Schedule
+#### Preliminary Conference Schedule
 
 {% include program.html %}
 
