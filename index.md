@@ -109,6 +109,10 @@ NordSec 2022 takes place at Reykjavik University, Menntavegur 1, 102 Reykjavik.
 
 {% include map.html %}
 
+* 30\. Nov : Room V102
+* 01\. Dec : Room M101
+* 02\. Dec : Room V101
+
 ##### Accomodation
 
 Hotel reservations in the Icelandair Hotel Reykjavik Natura can be made at a special rate at this [Synxis.com](https://be.synxis.com/?&adult=2&altdest=SWEST&arrive=2022-11-28&chain=15503&child=0&config=icelandair&configcode=icelandair&currency=ISK&depart=2022-12-04&hotel=59630&level=hotel&locale=en-US&promo=AIHNORSEIB&rooms=1) site.
