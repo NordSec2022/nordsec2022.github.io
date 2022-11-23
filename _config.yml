@@ -14,6 +14,8 @@ top_navs:
     anchor: "#accepted-papers"
   - title: "Registration"
     anchor: "#registration-information"
+  - title: "Venue"
+    anchor: "#location"
   - title: "Important dates"
     anchor: "#important-dates"
   - title: "Committees"
