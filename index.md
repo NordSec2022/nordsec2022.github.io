@@ -62,6 +62,10 @@ Submissions not meeting these guidelines risk rejection without consideration of
 
 {% include program.html %}
 
+##### Keynote 1: A New Age of Cyber Security in Peace and Conflict
+
+The growth of capability of computers has been exponential for more than half a century and it has been the backbone of the economic growth we have enjoyed. But has security been addressed as well as in other fields relying on new inventions and technology? What could we learn from other fields for better security and resilience? Computers and networks now play a key role in conflicts, both as targets and weapons. How do modern militaries view cyber weapons and what is the framework for their use? How can we take this into account in our approach to cyber security?
+
 #### Accepted Papers
 
 * Mordechai Guri. GPU-FAN: Leaking Data From Air-Gapped Machines via Covert Noise from GPU Fans
