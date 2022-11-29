@@ -66,6 +66,11 @@ Submissions not meeting these guidelines risk rejection without consideration of
 
 The growth of capability of computers has been exponential for more than half a century and it has been the backbone of the economic growth we have enjoyed. But has security been addressed as well as in other fields relying on new inventions and technology? What could we learn from other fields for better security and resilience? Computers and networks now play a key role in conflicts, both as targets and weapons. How do modern militaries view cyber weapons and what is the framework for their use? How can we take this into account in our approach to cyber security?
 
+##### Keynote 2: Electronic voting: design, attacks and proofs
+
+Electronic voting aims to achieve the same properties as traditional paper based voting. Even when voters vote from their home, they should be given the same guarantees, without having to trust the election authorities, the voting infrastructure, and/or the Internet network. The two main security goals are vote privacy: no one should know how I voted; and verifiability: a voter should be able to check that the votes have been properly counted.
+In this talk, we will explore how these properties can be realized, attacked, and proved. We will in particular illustrate our presentation with the Belenios protocol.
+
 #### Accepted Papers
 
 * Mordechai Guri. GPU-FAN: Leaking Data From Air-Gapped Machines via Covert Noise from GPU Fans
