@@ -89,6 +89,13 @@ The growth of capability of computers has been exponential for more than half a 
 * Mina Sheikhalishahi, Daan Gast and Sam Vermeiren. Local Differential Privacy for Private Construction of Classification Algorithms
 * Bernhards Blumbergs, Ēriks Dobelis, Peteris Paikens, Krišjānis Nesenbergs, Kirils Solovjovs and Artis Rušiņš. WearSec: Towards Automated Security Evaluation of Wireless Wearable Devices
 
+#### Accepted Posters
+
+* E. Seidl, S. Schrittwieser, A. Ekelhart, E. R. Weippl: Safe or Scam? An Empirical Simulation Study on Trust Indicators in Online Shopping
+* A. Mirzai, A. Z. Coban, M. Almgren, W. Aoudi, T. Bertilsson: Dynamic User-Level Scheduling to Improve ML-Based IDS on IoT     
+* T. K. T. Mogensen, Diego F. Aranha: Security analysis of the passwordless MitID digital identity system       
+* S. Sentanoe et al.: SmartVMI: Reconstructing meaningful kernel-level and application-level information about a target system using machine learning
+
 #### Registration Information
 
 The registration can be done [here](https://www.eventure-online.com/eventure/login.form?P21fb104f-db6e-473f-81a4-fc767adf6d90).
