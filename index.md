@@ -101,6 +101,10 @@ In this talk, we will explore how these properties can be realized, attacked, an
 * T. K. T. Mogensen, Diego F. Aranha: Security analysis of the passwordless MitID digital identity system       
 * S. Sentanoe et al.: SmartVMI: Reconstructing meaningful kernel-level and application-level information about a target system using machine learning
 
+#### Proceedings
+
+The proceedings are available to be accessed [here](https://link.springer.com/book/10.1007/978-3-031-22295-5).
+
 #### Registration Information
 
 The registration can be done [here](https://www.eventure-online.com/eventure/login.form?P21fb104f-db6e-473f-81a4-fc767adf6d90).
